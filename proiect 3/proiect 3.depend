@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578517662 source:c:\users\lori\desktop\proiect 3\main.cpp
+	<iostream>
+	<typeinfo>
+	<stdlib.h>
+	<set>
+	<iterator>
+	<string.h>
+
